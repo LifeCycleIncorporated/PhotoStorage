@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963822850183",
+    "project_id": "photostorage-1ac14",
+    "storage_bucket": "photostorage-1ac14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963822850183:android:0b0611cd15fc439a09a822",
+        "android_client_info": {
+          "package_name": "com.photostorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6_XQtbdnZCoWKv1dXUQ9K3jCPlJ_i6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
